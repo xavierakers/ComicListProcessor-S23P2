@@ -1,0 +1,6 @@
+load comics.csv
+display
+buy 1
+buy 2
+buy 1
+checkout
